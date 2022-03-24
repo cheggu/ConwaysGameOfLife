@@ -1,0 +1,4 @@
+﻿  ConwaysGameOfLife.cpp
+C:\Users\benja\Desktop\ConwaysGameOfLife\ConwaysGameOfLife.cpp(38,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\benja\Desktop\ConwaysGameOfLife\ConwaysGameOfLife.cpp(38,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ConwaysGameOfLife.vcxproj -> C:\Users\benja\Desktop\ConwaysGameOfLife\x64\Debug\ConwaysGameOfLife.exe
