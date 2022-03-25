@@ -1,1 +1,2 @@
 C:\Users\benja\Desktop\ConwaysGameOfLife-main\x64\Release\ConwaysGameOfLife.exe
+C:\Users\benja\Desktop\projects\ConwaysGameOfLife\x64\Release\ConwaysGameOfLife.exe
