@@ -154,6 +154,7 @@
     <ClCompile Include="ConwaysGameOfLife.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CreatureList.h" />
     <ClInclude Include="Includes.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
