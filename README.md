@@ -8,7 +8,8 @@ Here's what it looks like right now:
 
 ![Output sample](https://github.com/cheggu/ConwaysGameOfLife/blob/main/Media/conwayexample.gif)
 
-Will work on UI/UX in the future.
+Will work on UI/UX in the future, as well as customizable speed. 
+The current simulation currently updates every 100ms, but it can go much quicker than that.
 
 This was accomplished using C++ and <a href=https://www.sfml-dev.org/>SFML</a>
 
