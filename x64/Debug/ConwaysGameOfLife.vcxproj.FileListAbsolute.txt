@@ -1,2 +1,3 @@
 C:\Users\benja\Desktop\ConwaysGameOfLife\x64\Debug\ConwaysGameOfLife.exe
 C:\Users\benja\Desktop\ConwaysGameOfLife\x64\Debug\ConwaysGameOfLife.pdb
+C:\Users\benja\Desktop\ConwaysGameOfLife-main\x64\Debug\ConwaysGameOfLife.exe

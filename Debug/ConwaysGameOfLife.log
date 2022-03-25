@@ -1,2 +1,4 @@
 ﻿  ConwaysGameOfLife.cpp
-sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\benja\Desktop\ConwaysGameOfLife-main\ConwaysGameOfLife.cpp(38,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\benja\Desktop\ConwaysGameOfLife-main\ConwaysGameOfLife.cpp(38,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ConwaysGameOfLife.vcxproj -> C:\Users\benja\Desktop\ConwaysGameOfLife-main\Debug\ConwaysGameOfLife.exe
